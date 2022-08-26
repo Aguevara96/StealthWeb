@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: auto;
+    width: 98%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.svg{
+    width: 3rem;
+    margin: 1rem;
+}
+.navbar{
+    height: 75px;
+}
+.navbar-brand{
+    margin-left: 8%;
+}
+.dropdown{
+    display: flex;
+    margin-left: auto;
+}
+.algo{
+    display: flex;
+    margin-right: 8%;
+}
+.algo a{
+    margin-left: 15px;
+}
+.titulo{
+    text-align: center;
+}
+.otroDiv{
+    display: flex;
+    width: 33rem;
+}
+.div1, .div2, .div3{
+    margin-left: 1rem;
+}
+.divLi{
+    margin-top: 1.5rem;
+}
+.divLi li{
+    margin-bottom: 1rem;
+    margin-left: 0.2rem;
+}
